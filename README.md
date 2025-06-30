@@ -322,5 +322,5 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 **🚀 Built with ❤️ using Next.js 14, TypeScript, and modern web technologies**
 
-*This project is automatically synced with [v0.dev](https://v0.dev) - Continue building at [v0.dev/chat/projects/7gRTLoKIOs8](https://v0.dev/chat/projects/7gRTLoKIOs8)*
+
 
