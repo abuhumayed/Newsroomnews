@@ -12,9 +12,7 @@
 
 ## 🚀 Live Demo
 
-**Production:** [https://vercel.com/abuhumayeds-projects/v0-newsroomvmain](https://vercel.com/abuhumayeds-projects/v0-newsroomvmain)
-
-**Development:** Continue building at [v0.dev](https://v0.dev/chat/projects/7gRTLoKIOs8)
+**Production:** newsroomnews.vercel.app
 
 ## ✨ Features
 
